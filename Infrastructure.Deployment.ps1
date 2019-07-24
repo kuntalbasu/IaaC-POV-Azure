@@ -1,6 +1,6 @@
 # Creating Resource Group, Storage Account, VNet, Subnets, NSG Rule, User Account and Password
 
-    Import-AzContext -Path "H:\IaaC\kbasu.tect@hotmail.com-Free_Tier.json"
+    Connect-AzAccount
 
     # Variables for common values
     $ResourceGroup = "RG-BreakMe1"
