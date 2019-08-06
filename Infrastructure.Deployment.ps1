@@ -1,3 +1,4 @@
+# Date: 06-Aug-2019
 # Creating Resource Group, Storage Account, VNet, Subnets, NSG Rule, User Account and Password
 
     Connect-AzAccount
